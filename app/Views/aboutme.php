@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Homepage Andy</title>
+    <title>About Andy</title>
     <meta name="description" content="The small framework with powerful features">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" type="image/png" href="/favicon.ico">
@@ -216,9 +216,7 @@
 
     <div class="heroe">
 
-        <h1>Selamat Datang di Website Andy</h1>
-
-        <p>ini digunakan untuk menunjukan kompetensi saya dalam menggunakan framework HMVC dalam pengembangan aplikasi web serta mengelola source code menggunakan sistem kontrol versi GIT</p>
+        <h1>About Me</h1>
 
     </div>
 
@@ -228,9 +226,11 @@
 
 <section>
 
-    <h1>About this page</h1>
-
-    <p>Halaman ini merupakan halaman selamat datang.</p>
+    <p>Halo, perkenalkan nama saya andy, saya berasal dari bandung, tepat nya di cileunyi kabupaten bandung.</p>
+    <p>Saya Kelahiran Bandung 26 October 1997 sekarang ini berusia 26 tahun</p>
+    <p>Selain aktifitas perkuliahan, saya juga bekerja menjadi seorang engineer telekomunikasi</p>
+    <p>harapan nya perkuliahan saya di universitas widyatama bisa menjadi bekal yang baik untuk karis saya kedepan</p>
+    <p>terima kasih sudah membaca.</p>
 
 </section>
 

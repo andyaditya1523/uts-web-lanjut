@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Homepage Andy</title>
+    <title>Education Page Andy</title>
     <meta name="description" content="The small framework with powerful features">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" type="image/png" href="/favicon.ico">
@@ -216,9 +216,7 @@
 
     <div class="heroe">
 
-        <h1>Selamat Datang di Website Andy</h1>
-
-        <p>ini digunakan untuk menunjukan kompetensi saya dalam menggunakan framework HMVC dalam pengembangan aplikasi web serta mengelola source code menggunakan sistem kontrol versi GIT</p>
+        <h1>My Education</h1>
 
     </div>
 
@@ -228,9 +226,44 @@
 
 <section>
 
-    <h1>About this page</h1>
+<table border="1" cellspasing="0">
+			<tr bgcolor="#DDDDDD" style="color:black;">
+				<td width="50px" align="center">No</td>
+				<td width="200px" align="center">Tingkat</td>
+				<td width="600px" align="center">Nama Sekolah</td>
+			</tr>
 
-    <p>Halaman ini merupakan halaman selamat datang.</p>
+			<tr >
+				<td >1</td>
+				<td >TK</td>
+				<td >TK Pembina Cinunuk - Bandung</td>
+			</tr>
+
+			<tr >
+				<td >2</td>
+				<td >SD</td>
+				<td >SDN Cibiru 10 - Bandung</td>
+			</tr>
+
+			<tr >
+				<td >3</td>
+				<td >SMP</td>
+				<td >SMP Karya Pembangunan 10 - Bandung</td>
+			</tr>
+			
+			<tr >
+				<td >4</td>
+				<td >SMA</td>
+				<td >SMAN 1 Cileunyi - Bandung</td>
+			</tr>
+			
+			<tr >
+				<td >5</td>
+				<td >Kuliah</td>>
+				<td >Universitas Widyatama - Bandung</td>
+			</tr>
+		</table>
+    </div>
 
 </section>
 
